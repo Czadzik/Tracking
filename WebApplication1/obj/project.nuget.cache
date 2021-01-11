@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+GxkmgHm35dNg6dNX6z3hklBqKzhgupYU1sCGnQNtRHNsedMye2QpR9AIw6DloZeL1kNUbohNa6/jfbytaO4fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Czadzik\\source\\repos\\Tracking\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Czadzik\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
